@@ -42,8 +42,7 @@ get started with Excel for Data Analytics.
 - **Zoom in / out:**  
   `Ctrl + Scroll Wheel`
 
-- **Select cell range:**  
-  Example: `C3 : C9` (cells from C3 to C9)
+
 
 ---
 
